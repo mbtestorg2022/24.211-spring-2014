@@ -6,19 +6,191 @@ uid: ebb285f8-69ff-2efc-2b59-49adbe403cab
 
 The table below features the topics discussed during this course as well as due dates for the assignments.
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | The Skeptical Problem | &nbsp; |
-| 2–3 | What is Knowledge? | &nbsp; |
-| 4–5 | Skepticism and Common Sense | Short writing assignment 1 due during session 4 |
-| 6–7 | The Closure of Knowledge | Short writing assignment 2 due during session 6 |
-| 8–9 | Sensitivity and Safety | Short writing assignment 3 due during session 8 |
-| 10–11 | Dogmatism and Bootstrapping | Short writing assignment 4 due during session 10 |
-| 12–13 | Default Entitlement | &nbsp; |
-| 14–15 | Inference to the Best Explanation | &nbsp; |
-| 16–17 | Knowledge and Certainty | Midterm paper due during session 16 |
-| 18–19 | Contextualism and Practical Interests | &nbsp; |
-| 20 | The Lottery Paradox, Part 1 | &nbsp; |
-| 21 | The Lottery Paradox, Part 2  {{< br >}}_Guest lecturer: Said Saillant_ | &nbsp; |
-| 22 | The Lottery Paradox, Part 3  {{< br >}}_Guest lecturer: Ian Wells_ | &nbsp; |
-| 23–26 | Semantic Externalism | Final paper due during session 26
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+The Skeptical Problem
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2–3
+{{< tdclose >}}
+{{< tdopen >}}
+What is Knowledge?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4–5
+{{< tdclose >}}
+{{< tdopen >}}
+Skepticism and Common Sense
+{{< tdclose >}}
+{{< tdopen >}}
+Short writing assignment 1 due during session 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6–7
+{{< tdclose >}}
+{{< tdopen >}}
+The Closure of Knowledge
+{{< tdclose >}}
+{{< tdopen >}}
+Short writing assignment 2 due during session 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8–9
+{{< tdclose >}}
+{{< tdopen >}}
+Sensitivity and Safety
+{{< tdclose >}}
+{{< tdopen >}}
+Short writing assignment 3 due during session 8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10–11
+{{< tdclose >}}
+{{< tdopen >}}
+Dogmatism and Bootstrapping
+{{< tdclose >}}
+{{< tdopen >}}
+Short writing assignment 4 due during session 10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12–13
+{{< tdclose >}}
+{{< tdopen >}}
+Default Entitlement
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14–15
+{{< tdclose >}}
+{{< tdopen >}}
+Inference to the Best Explanation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16–17
+{{< tdclose >}}
+{{< tdopen >}}
+Knowledge and Certainty
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm paper due during session 16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18–19
+{{< tdclose >}}
+{{< tdopen >}}
+Contextualism and Practical Interests
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+The Lottery Paradox, Part 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+The Lottery Paradox, Part 2  
+_Guest lecturer: Said Saillant_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+The Lottery Paradox, Part 3  
+_Guest lecturer: Ian Wells_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23–26
+{{< tdclose >}}
+{{< tdopen >}}
+Semantic Externalism
+{{< tdclose >}}
+{{< tdopen >}}
+Final paper due during session 26
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
