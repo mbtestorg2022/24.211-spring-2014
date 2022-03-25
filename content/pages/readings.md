@@ -32,7 +32,7 @@ READINGS
 The Skeptical Problem
 {{< tdclose >}}
 {{< tdopen >}}
-Descartes, René. "First Meditation: On what can be called into doubt." In ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Meditations on First Philosophy in which are demonstrated the existence of God and the distinction between the human soul and body_ (PDF)](https://www.earlymoderntexts.com/assets/pdfs/descartes1641.pdf). earlymoderntexts.com.
+Descartes, René. "First Meditation: On what can be called into doubt." In [_Meditations on First Philosophy in which are demonstrated the existence of God and the distinction between the human soul and body_ (PDF)](https://www.earlymoderntexts.com/assets/pdfs/descartes1641.pdf). earlymoderntexts.com.
 {{< tdclose >}}
 
 {{< trclose >}}
